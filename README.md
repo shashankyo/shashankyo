@@ -1,5 +1,5 @@
 
-<img src="git.png" alt = "page" style="width:42px;height:42px;">
+<img src="readme/git.png" alt = "page" style="width:42px;height:42px;">
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
