@@ -1,4 +1,4 @@
-<h1>HI</h1>
+<img src = "git.png">
 
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
