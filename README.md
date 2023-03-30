@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankyo&label=Profile%20views&color=0e75b6&style=flat" alt="shashankyo" /> </p>
 
-- 🌱 I’m currently learning **Go, Rust, Angular and React**
+- 🌱 I’m currently learning **Go, Rust, Angular and React** during my spare time.
 
 - 👨‍💻 All of my projects are available at [https://github.com/shashankyo](https://github.com/shashankyo)
 
